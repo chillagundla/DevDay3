@@ -1,0 +1,17 @@
+this is branch text
+instslled git
+useing this commands
+
+-- git int
+-- git status
+-- git config init.defualtBranch main
+-- git config user.email "Srinadh" 
+--- git config user. name "Sri"
+---git branch Srinadh
+---git switch srinadh
+or -- git checkout -b srinadh 
+--- git add.
+-- got commit -m "commit msg"
+--git push
+git branch -d srinadh
+-- git merdge srinadh
